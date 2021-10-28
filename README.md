@@ -2,6 +2,11 @@
 
 This repository has a docker-compose file that creates tables and fill the tables in a Postgres data base. The DDL and DML query's are found inside the sql/ folder
 
+## ER Diagram
+The ER Diagram of the DB:
+
+<img width="809" alt="ER_Diagram" src="https://github.com/abdibedaso/Docker-Postgres-With-Data/blob/main/resource/ER_model.PNG">
+
 ## DB Variables
 Set the variables in `sql/fill_tables.sql`
 | Parameter | Description |
