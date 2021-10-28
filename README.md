@@ -1,6 +1,6 @@
 ## Creating and filling a Postgres DB with Docker Compose
 
-This repository has a docker-compose file that creates tables and fill the tables in a Postgres data base. The DDL and DML query's are found inside the sql/ folder
+This repository has a docker-compose file that creates tables and fills the tables in a Postgres database. The DDL and DML query's are found inside the sql/ folder
 
 ## ER Diagram
 The ER Diagram of the DB:
